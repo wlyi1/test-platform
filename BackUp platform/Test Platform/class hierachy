@@ -1,0 +1,4 @@
+class
+make a list of instance
+all = []
+Item.all(apend(self)
